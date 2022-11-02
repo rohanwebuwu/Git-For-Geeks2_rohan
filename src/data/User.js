@@ -157,5 +157,17 @@ const Users = {
       portfolio: "",
     },
   },
+  "Rohan Shah": {
+    name: "Rohan Shah",
+    branch: "EXTC",
+    description:
+      "Exploring web and expanding my knowledge by learning innovative concepts, skills and technologies.",
+    links: {
+      github: "https://github.com/rohanwebuwu",
+      instagram: "https://www.instagram.com/rohan.s_20/",
+      linkedin: "https://www.linkedin.com/in/rohan-shah-1676b922a/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
